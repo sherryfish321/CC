@@ -168,7 +168,7 @@ bank_list = {
 import json
 import time
 import requests
-GOOGLE_PLACES_API_KEY = 'AIzaSyDC8tt4fgMoSE80zW6-OutfV8PsacRkQz8'
+GOOGLE_PLACES_API_KEY = 'None'
 
 def get_latitude_longtitude(address, GOOGLE_PLACES_API_KEY): 
     # decode url
